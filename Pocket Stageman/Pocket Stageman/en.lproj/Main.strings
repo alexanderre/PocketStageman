@@ -1,0 +1,30 @@
+
+/* Class = "IBUILabel"; text = "Drive"; ObjectID = "1rb-kj-IbX"; */
+"1rb-kj-IbX.text" = "Drive";
+
+/* Class = "IBUILabel"; text = "Middle"; ObjectID = "3N7-rq-k2m"; */
+"3N7-rq-k2m.text" = "Middle";
+
+/* Class = "IBUILabel"; text = "Master"; ObjectID = "Hyo-Ct-WbP"; */
+"Hyo-Ct-WbP.text" = "Master";
+
+/* Class = "IBUILabel"; text = "Volume"; ObjectID = "LCQ-Cj-ZgK"; */
+"LCQ-Cj-ZgK.text" = "Volume";
+
+/* Class = "IBUILabel"; text = "Presence"; ObjectID = "ZKo-mh-VMb"; */
+"ZKo-mh-VMb.text" = "Presence";
+
+/* Class = "IBUILabel"; text = "Bright ON"; ObjectID = "dKU-6U-h7f"; */
+"dKU-6U-h7f.text" = "Bright ON";
+
+/* Class = "IBUILabel"; text = "Bass"; ObjectID = "lu4-2W-czn"; */
+"lu4-2W-czn.text" = "Bass";
+
+/* Class = "IBUILabel"; text = "Reverb"; ObjectID = "oGi-gF-yHc"; */
+"oGi-gF-yHc.text" = "Reverb";
+
+/* Class = "IBUILabel"; text = "Treble"; ObjectID = "tnR-ne-dFv"; */
+"tnR-ne-dFv.text" = "Treble";
+
+/* Class = "IBUILabel"; text = "FENDER HOT ROD DELUXE II"; ObjectID = "zdk-ho-1Bg"; */
+"zdk-ho-1Bg.text" = "FENDER HOT ROD DELUXE II";
